@@ -32,8 +32,5 @@ Before running the voice assistant, ensure you have the following prerequisites 
 - The voice assistant uses Google's speech recognition service, so ensure you have a stable internet connection.
 - The object detection feature requires a webcam connected to your device. Make sure the webcam is functioning correctly.
 
----
 
-This README.md content provides clear instructions for setting up the environment, running the voice assistant, and how to interact with it. It also includes notes about dependencies and hardware requirements.
 
-Citations:
