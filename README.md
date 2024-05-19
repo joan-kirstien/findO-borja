@@ -6,6 +6,7 @@ Before running the voice assistant, ensure you have the following prerequisites 
 
 - Install Python 3.8 or newer.
 - Install the necessary Python packages:
+- Webcam and microphone
   ```bash
   pip install ultralytics opencv-python-headless numpy pytorch torchvision torchaudio SpeechRecognition pyttsx3 better-profanity textblob nltk
   ```
