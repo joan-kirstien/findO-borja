@@ -1,10 +1,6 @@
-# To integrate the instructions for running your project and interacting with the voice assistant into your GitHub README.md file, you can structure it like this:
+# How to run FindO
 
----
-
-## Running the Voice Assistant
-
-### Prerequisites
+## Prerequisites
 
 Before running the voice assistant, ensure you have the following prerequisites installed:
 
